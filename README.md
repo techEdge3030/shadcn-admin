@@ -60,8 +60,5 @@ Start the server
 
 ## Author
 
-Crafted with 🤍 by [@satnaing](https://github.com/satnaing)
+Crafted with 🤍 by [@techEdge3030](https://github.com/techEdge3030)
 
-## License
-
-Licensed under the [MIT License](https://choosealicense.com/licenses/mit/)
