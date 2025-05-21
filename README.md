@@ -37,7 +37,7 @@ I've been creating dashboard UIs at work and for my personal projects. I always 
 Clone the project
 
 ```bash
-  git clone https://github.com/satnaing/shadcn-admin.git
+  git clone https://github.com/techEdge3030/shadcn-admin.git
 ```
 
 Go to the project directory
